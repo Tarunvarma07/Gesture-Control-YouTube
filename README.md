@@ -99,6 +99,6 @@ Licensed under the [MIT License](LICENSE).
 
 ### 🔗 Author
 
-**Venkata Sai Tarun Varma**
+**Venkata Sai Tarun Varma Chintha**
 📍 Andhra Pradesh, India
 👨‍💻 [GitHub](https://github.com/Tarunvarma07).E-mail:varmachintha30@gmail.com
